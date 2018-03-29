@@ -1,2 +1,2 @@
 # CS181
-Winter 2018 with Amit Sahai @ UCLA
+Winter 2018 with Professor Amit Sahai at UCLA
